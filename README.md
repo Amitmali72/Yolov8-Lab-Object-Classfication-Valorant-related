@@ -3,9 +3,12 @@
 **Lab Assignment** — Deep Learning & Computer Vision | 2024–25
 
 ## 👥 Group Details
-| Member | Roll No | GitHub |
-|--------|---------|--------|
-| (Update this table) | | |
+| # | Full Name | Roll Number | PRN / Enrollment No. | GitHub Username | Email ID |
+|---|---|---|---|---|---|
+| 1 |(leader)Amit Ramchandra Mali|202301070196|202301070196 | @Amitmali72 |amitmali@gmail.com| |
+| 2 | Shivraj Nalawade|20230106008| 20230106008 | @username | |
+| 3 |Pranav Gopal Karande |202301070195|202301070195 | @TECHYpranav07 | |
+| 4 |Pratik Maruti Bhosale|202301070147 | 202301070147| @username | |
 
 ## 📋 About This Project
 This project implements **object detection**, **instance segmentation**, and **image classification** using **YOLOv8** (Ultralytics). We evaluate multi-task performance and explore real-world applications.
